@@ -1,6 +1,9 @@
 👋 Hi, I’m @Manoj-Jupudi
+
 👀 I’m interested in Data Science
-🌱 I’m currently getting my hands around Big Data Analysis and Data Science for Python
+
+🌱 I’m currently getting my hands around Big Data Analysis and Data Science for Finance
+
 📫 How to reach me : jupman1217@gmail.com
 
 <!---
